@@ -6,7 +6,7 @@
 > [!NOTE]
 > 本说明由[DeepSeek](https://www.deepseek.com/)基于本着色器文件生成。
 > 
-> 本说明适用于Blake/Standard v2.3.8。
+> 本说明适用于Blake/Standard **v2.3.8**。
 
 ### Main 主设置
 - **Cull Mode** (_A0_CullMode)
