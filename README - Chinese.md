@@ -1,6 +1,11 @@
 # Standard.shader
 使用于Unity Editor中的着色器，主要应用于非透明的衣服和物品等。
 
+## 下载中心
+请前往[Release](https://github.com/Blatke/Standard.shader/releases)页面，并从最新版本中下载.shader文件。
+
+将其拖放到Unity编辑器中的Project文件夹中，然后在项目窗口中创建新材质。选择此新材质，并在材质的检查器选项卡上，将其着色器指定给**Blake/Standard**。
+
 ## 属性说明
 
 > [!NOTE]
