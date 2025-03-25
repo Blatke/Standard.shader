@@ -1,5 +1,6 @@
 # Standard.shader
   - A shader for Unity Editor, primarily used for non-transparent clothing and objects.
+  - The Chinese version of this introduction: [中文版](https://github.com/Blatke/Standard.shader/blob/main/README%20-%20Chinese.md).
 
 ## Property Descriptions
 > [!NOTE]
