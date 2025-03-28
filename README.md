@@ -178,6 +178,10 @@ Drag and drop it into the Project folder in Unity Editor, and then create a mate
 
   - Mask target: 0=Base color, 1=Detail texture, 2=Both.
 
+- **Affect Mode** (_D103_ColorMaskAffectMode)
+
+  - Mode to affect albedo: 0=Albedo only (alpha value greater than 0), 1=Alpha only (alpha value less than 1.0), 2=Both
+
 - **Red to Color** (_D911_ColorMaskToColor_Red)
 
   - Target color (RGBA) for red mask regions.
