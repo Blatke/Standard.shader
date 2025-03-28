@@ -165,6 +165,10 @@
 - **Color Mask map to** (_D102_ColorMaskMapTo)
 
   - 遮罩映射目标：0=基础颜色，1=细节纹理，2=两者混合。
+ 
+- **Affect Mode** (_D103_ColorMaskAffectMode)
+
+  - 影响主颜色纹理的模式：0=仅影响主颜色纹理（alpha值大于0），1=仅影响alpha值小于1.0的纹理，2=两者均影响。
 
 - **Red to Color** (_D911_ColorMaskToColor_Red)
 
