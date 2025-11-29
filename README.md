@@ -3,9 +3,11 @@
   - The Chinese version of this introduction: [中文版](https://github.com/Blatke/Standard.shader/blob/main/README%20-%20Chinese.md).
 
 ## Download
-Please go to the [Release](https://github.com/Blatke/Standard.shader/releases) page, and download the .shader file from the latest version. 
+Please go to the [Release](https://github.com/Blatke/Standard.shader/releases) page, and download the **Source code.zip** from the latest version. 
 
-Drag and drop it into the Project folder in Unity Editor, and then create a material in the project window. Select this new material, and on the material's inspector tab, assign its shader to **Blake/Standard**. 
+Uncompress the downloaded .zip file and find the **Shader** folder.
+
+Drag and drop all the files inside the Shader folder into your Project folder in Unity Editor, and then create a material in the project window. Select this new material, and on the material's inspector tab, assign its shader to **Blake/Standard**. 
 
 ## Property Descriptions
 > [!NOTE]
