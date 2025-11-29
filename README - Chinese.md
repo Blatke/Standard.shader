@@ -2,9 +2,11 @@
 使用于Unity Editor中的着色器，主要应用于非透明的衣服和物品等。
 
 ## 下载
-请前往[Release](https://github.com/Blatke/Standard.shader/releases)页面，并从最新版本中下载.shader文件。
+请前往[Release](https://github.com/Blatke/Standard.shader/releases)页面，并从最新版本中下载**Source code.zip**文件。
 
-将其拖放到Unity编辑器中的Project文件夹中，然后在项目窗口中创建新材质。选择此新材质，并在材质的检查器选项卡上，将其着色器指定给**Blake/Standard**。
+将下载的Source code.zip文件解压缩，然后找到名为**Shader**的文件夹。
+
+将Shader文件夹里的全部文件拖放到Unity编辑器中的Project文件夹中，然后在项目窗口中创建新材质。选择此新材质，并在材质的检查器选项卡上，将其着色器指定给**Blake/Standard**。
 
 ## 属性说明
 
@@ -427,3 +429,4 @@
   - 红色区域流体贴图的X/Y轴缩放（-10~10，负值反转）。
 
   - （Green/Blue/Cyan/Fuchsia/Yellow/White区域的参数与Red区域类似，依次对应不同颜色通道）
+
